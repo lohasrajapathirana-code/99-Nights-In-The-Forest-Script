@@ -1,0 +1,5 @@
+# 99-Nights-In-The-Forest-Script
+
+#The Script is 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VWExtra/main/NightsInTheForest.lua", true))()
+    
